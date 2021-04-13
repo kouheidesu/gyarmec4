@@ -43,8 +43,9 @@ h2 {
 
 .absolute_img {
     position: absolute;
-    right: 30px;
+    right: 50px;
     bottom: 90px;
-    width: 700px;
+    width: 900px;
+    height: 450px;
     
 }

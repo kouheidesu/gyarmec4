@@ -1,0 +1,50 @@
+.item1 {
+    background: #000080;
+    width: 700px;
+    height: 110px;
+    float: left;
+    line-height: 0;
+    margin: 0 30px;
+    
+}
+
+#a {
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 0;
+    margin: 0.5em 30px
+    
+    
+}
+
+p.mb5 {
+    margin-bottom: 30em;
+}
+ 
+h2 {
+    color:blue;
+    position:relative;top: 50px;
+}
+
+#sample {
+    color:blue;
+    text-align: right;
+    margin:30px;
+}
+
+
+
+.item1 {
+    margin: 30;
+    
+    width: 60%;
+    position: relative;
+}
+
+.absolute_img {
+    position: absolute;
+    right: 30px;
+    bottom: 90px;
+    width: 700px;
+    
+}
